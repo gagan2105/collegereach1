@@ -1,0 +1,277 @@
+Welcome to EduReach Platform. EduReach is a comprehensive platform designed to connect students with educational resources, counselors, and upcoming events.
+Our key features include:
+1. Student Dashboard: View grades, attendance, and enrolled courses.
+2. Events Gallery: See upcoming seminars, workshops, and sports events.
+3. Counselor Access: Book appointments with dedicated academic and personal counselors.
+4. Leave Policy: Students must maintain 75% attendance. Medical leaves require a doctor's certificate.
+5. Grading System: We follow a standard GPA system from 0.0 to 4.0. Grades A+ through F are awarded based on performance.
+6. Campus Security: The campus is monitored 24/7. In case of emergency, contact the administration block immediately.
+
+College Information: BVRIT (B.V. Raju Institute of Technology)
+B.V. Raju Institute of Technology (BVRIT) was established by the eminent philanthropist (Late) Padmabhushan Dr. B.V. Raju under the aegis of Sri Vishnu Educational Society (SVES) in the year 1997. 
+The institute is affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH), and is approved by the All India Council for Technical Education (AICTE), New Delhi.
+BVRIT is granted UGC - Autonomous Status from the year 2014.
+It offers various Undergraduate and Postgraduate programs in Engineering, Technology, and Management.
+The campus is located in Vishnupur, Narsapur, Medak District, Telangana.
+
+If you have any specific query regarding admissions, please email admissions@edureach.edu.
+
+Extended BVRIT Brochure Information:
+BVRIT (Padmasri Dr. B V Raju Institute of Technology) is the seat of a vibrant education ecosystem under the aegis of Sri Vishnu Educational Society (SVES).
+Location: Sprawling 110 acres serene campus at Vishnupur, Narsapur, Greater Hyderabad of Andhra Pradesh (Telangana).
+Affiliation: Jawaharlal Nehru Technology University (JNTU), Hyderabad.
+
+Streams in Engineering (B.Tech):
+- Electronics & Communications Engineering
+- Electrical & Electronics Engineering
+- Computer Science Engineering
+- Information Technology
+- Chemical Engineering
+- Mechanical Engineering
+- Biomedical Engineering
+
+M.Tech Programs:
+- VLSI Systems Design
+- Chemical Engineering
+- Computer Science Engineering
+- Software Engineering
+- Embedded Systems
+
+Other PG Courses:
+- MBA
+- MCA
+
+Resource & Infrastructure:
+- Digital Central Library
+- Computer Centre (Under Microsoft Campus Agreement)
+- Auditorium
+- E-classrooms
+- Communication Skills Laboratory
+- Soft Skills Training Centre
+- Food Court & Canteen
+- Game-specific outdoor & indoor facilities
+- Gymnasium
+
+24/7 Lab Facilities:
+- Signal & Image Processing Lab
+- Transducers & Application
+- Mass Transfer Operations
+- Chemical Reaction Engineering
+- Mini Project Lab
+- Assistive Technology Lab
+- Simulations & Electrical Systems Lab
+- Microwave & Optical Communication
+- Anjani Powder Research Centre
+
+Other Facilities:
+- Banking Facility
+- Temple
+- Transportation
+- Post Office
+- Medical Aid
+- Mineral Water Plant
+- Recreation
+- Hostel Accommodation
+- Industry Interaction & Placement
+
+Honoured Board of Advisory:
+- Dr. V S Raju, Former Director, IIT-Delhi
+- Dr. I Gopal Reddy, Former Vice-Chancellor, JNTU-Andhra Pradesh
+
+Embedding Excellence & Research Centers:
+- The Assistive Technology Lab [ATL] in association with University of Massachusetts, Lowell, USA
+- Entrepreneurship Development Cell under the aegis of AICTE
+- Technology and Business Incubation Centre funded by the MSME
+- National Instruments and Texas Instruments Lab
+- Powder Research Center in collaboration with a Cement Industry
+- The IBM Center of Excellence and the Microsoft i-Spark Center
+- The BVRIT Innovation Center
+- VLSI and Embedded Systems Labs with Synopsys tools
+- Energy Park: 3-way tie up with Titan Energy Systems Ltd and Elkem Solar Norway.
+- MoUs signed with: University of Massachusetts, Microsoft, Xilinx, Computer Associates, and IBM.
+
+Scrolls & Shields (Recognitions/Achievements):
+- NBA accreditation for 3 years
+- Indo-US Collaboration for Engineering Education
+- IMC Ramkrishna Bajaj Award: SVES received the IMC Ramkrishna Bajaj National Quality RBNQA Commendation Certificate 2010 in the Education Category.
+- Texas Instruments Analog Design Contest 2010 - First Runner up vying with IITs.
+
+Prominent Recruiters (Placement / Internships):
+Google, IBM, Tata Consultancy Services (TCS), Infosys, AMD, Accenture, Birlasoft, Microsoft, Ashok Leyland, Wipro, Infotech, Dr. Reddy's, Bharti Airtel, Schneider Electric, ECIL, NTPC, Maruti Udyog.
+
+Additional Updates from BVRIT Website (2024-2025):
+Vision: To create and nurture competent engineers and managers who would be enterprise leaders throughout the world with a sound background in ethics and societal responsibilities.
+Excellence: 25+ Years of Academic Excellence, 100+ Labs, 20+ International Collaborations, 50+ Awards, 10000+ Alumni, 1500+ Engineers produced per year.
+Placements: 150+ Recruiters visit year on year, 1500+ Placements successfully this year, 80+ students placed with 10 LPA this year.
+
+Detailed Intake by Branch (UG):
+- CSE: 540
+- ECE: 240
+- AI & ML: 180
+- AI & DS: 120
+- Data Science: 120
+- BME: 60
+- Chemical: 60
+- Civil: 60
+- CSBS: 60
+- EEE: 60
+- Mechanical: 60
+- PHE: 60
+
+Detailed Intake by Branch (PG):
+- MBA: 120
+- CSE: 12
+- Data Sciences: 12
+- EPS: 12
+- EVT: 12
+- Embedded Systems: 12
+- Engineering Design: 12
+- VLSI System Design: 12
+- Chemical: 6
+
+Recent Awards & Recognitions (2024-2025):
+- BVRIT’s “Team A-OFFROADERS” secured the 2nd Runner-up position in BAJA 2025 at GARC Chennai, winning First place in Business Presentation, First Runner-up in Endurance, and “Best Debutant Team”.
+- BVRIT received the NPTEL Local Chapter Star recognition for January–April 2025.
+- Two students from BVRIT were globally certified in the CEH Exam.
+- BVRIT Team won the “Pride of Telangana” in SAE INDIA eBAJA 2025.
+- BVRIT secured 2nd runner-up out of 44 teams in the Durability Event at SAE INDIA eBAJA 2025.
+- Assistive Technology Lab (ATL) at BVRIT secured two recognitions at IMPAIRATHON 2024 conducted by StartupTN.
+
+---
+College Admission Process 2026
+
+1. Online Registration:
+- Visit official website (e.g., collegename.ac.in/admissions).
+- Create account with email, phone, and password.
+- Fill personal details: Name, DOB, category, address.
+
+2. Entrance Exam:
+- Appear for JEE Main/State CET or college test.
+- Minimum 45% in qualifying exam for general; 40% for reserved.
+
+3. Application Form:
+- Upload 10+2 marksheet, photo, ID proof.
+- Pay INR 1000 fee online.
+
+4. Merit List:
+- Published on website by May 2026.
+- Counseling rounds for seat allotment.
+
+5. Document Verification:
+- Originals + 3 sets copies on reporting day.
+- Provisional admission if originals pending.
+
+6. Fee Payment:
+- First installment due within 7 days.
+
+Contact: admissions@collegename.ac.in | +91-XXXXXXX Eligibility Criteria for Undergraduate Programs 2026
+
+B.Tech (All Branches):
+- Passed 10+2 with Physics, Math, Chemistry/Biology/Biotech.
+- Min 50% aggregate (45% SC/ST/OBC).
+- Valid JEE Main/CET score.
+
+B.Sc Data Science:
+- 10+2 with Math/Stats; 50% marks.
+
+MBA:
+- Graduation with 50%; CAT/MAT score.
+
+Lateral Entry (Diploma to B.Tech 2nd Year):
+- Diploma in Engg with 50%.
+
+Age Limit: 17-25 years as of July 1, 2026.
+Gap Allowed: Up to 2 years with affidavit.
+
+Special: Sports/NCC quotas - 5% seats. Courses Offered 2026-27
+
+Undergraduate:
+- B.Tech CSE: 4 yrs, 120 seats, Focus: AI, Web Dev, DSA.
+- B.Tech ECE: 4 yrs, 60 seats.
+- B.Tech Mechanical: 4 yrs, 60 seats.
+- B.Sc ML: 3 yrs, 40 seats.
+
+Postgraduate:
+- M.Tech AI: 2 yrs, 18 seats, GATE required.
+- MCA: 2 yrs, 30 seats.
+
+Diploma:
+- Web Dev: 1 yr.
+
+Curriculum: Industry-aligned with React, Firebase, Python projects.
+Placements: 90% avg, top cos like TCS, Infosys. Annual Fees Structure 2026 (INR)
+
+B.Tech:
+- Tuition: 1,00,000
+- Hostel: 60,000 (AC/non-AC)
+- Mess: 40,000
+- Total: ~2,00,000/yr
+
+B.Sc: 80,000 tuition + extras.
+
+M.Tech: 90,000 tuition.
+
+Scholarships:
+- Merit: 50% waiver for 90%+ in 12th.
+- EWS/SC/ST: Full tuition free.
+- Apply post-admission.
+
+Payment: Online/ Demand Draft.
+Installments: 2 per year. Admission Timeline 2026
+
+- Notification: Jan 15
+- Applications Open: Feb 1
+- Last Date UG: April 15
+- Entrance Results: May 1
+- Merit List: May 15
+- Counseling Rd1: May 25
+- Rd2: June 5
+- Classes Start: July 20
+
+Hostel Allotment: June 10 onwards.
+
+Updates on website/email alerts. Frequently Asked Questions
+
+Q: Can I apply after deadline?
+A: No extensions usually; check website.
+
+Q: Hostel compulsory?
+A: For outstation students; first-come basis.
+
+Q: Transfer certificate needed?
+A: Yes, for final admission.
+
+Q: Refund policy?
+A: 90% before classes; 50% within 1 month.
+
+Q: Entrance syllabus?
+A: 11th/12th PCM level.
+
+Q: Online classes available?
+A: Hybrid mode for first sem.
+
+More: Download full PDF from site. Campus Facilities
+
+- Library: 50k+ books, digital access.
+- Labs: Web Dev, DSA, ML labs with VS Code setup.
+- Hostels: Separate boys/girls, WiFi, gym.
+- Sports: Cricket, volleyball courts.
+- Canteen: Affordable meals.
+- Transport: Buses from Uppal, Hyderabad.
+
+Anti-Ragging: Strict policy, helpline available.
+Career Cell: Internship support (NxtWave style).
+Scholarships & Financial Aid 2026
+
+Government:
+- TS E-Pass: For SC/ST/BC/EWS.
+
+Merit-Based:
+- Top 10 JEE: 1L scholarship.
+- Girls: 20k special.
+
+Need-Based:
+- Family income <5L: 30% fee waiver.
+
+Application: Separate form + docs by June 1.
+Disbursal: Sem-wise.
