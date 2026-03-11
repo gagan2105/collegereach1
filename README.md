@@ -1,5 +1,7 @@
 # EduReach Platform
 
+**Live Demo:** [https://collegereach1.vercel.app/](https://collegereach1.vercel.app/)
+
 EduReach is a modern, full-stack educational college platform designed to connect students with top-tier education, specialized mentorship, and vibrant campus experiences. It features a responsive landing page, dynamic course catalogs, verified placement statistics, and cutting-edge **AI integrations** for student support.
 
 ## 🌟 Key Features
